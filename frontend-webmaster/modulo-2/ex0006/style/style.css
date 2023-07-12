@@ -1,0 +1,38 @@
+body{
+    background-color: #EDE5F3;
+}
+
+div{
+    border-radius: 6px;
+    border: 2px solid black;
+    margin: 30px;
+}
+
+h1{
+    size: 1.8rem;
+    padding: 50px;
+}
+
+div#blue{
+    background-color: #79ADDC;
+}
+
+div#yellow{
+    background-color: #FCCA46;
+}
+
+div.green{
+    background-color: #62C370;
+}
+
+div#blue >h1{
+    color: #AECEEA;
+}
+
+div#yellow > h1{
+    color: #FDDE86;
+}
+
+div.green > h1{
+    color: #97D8A1;
+}
