@@ -1,0 +1,31 @@
+div#um{
+    width: 600px;
+    height: 600px;
+    background-color: brown;
+}
+
+
+div#dois{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+}
+
+div#tres{
+    background-color: coral;
+    width: 100px;
+    height: 100px;
+}
+
+div#quatro{
+    background-color: cadetblue;
+    width: 100px;
+    height: 100px;
+}
+
+div.cinco{
+    background-color: greenyellow;
+    width: 30px;
+    height: 30px;
+    margin: 30px;
+}

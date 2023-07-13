@@ -1,0 +1,13 @@
+header{
+    background-color: gray;
+    height: 80px;
+    width: 100%;
+    min-width: 1000px;
+}
+
+article{
+    background-color: darkslategray;
+    height: 780px;
+    width: 1000px;
+    margin: auto;
+}
