@@ -9,7 +9,7 @@ html,body{
 
 .center{
 	box-sizing: content-box;
-	width: 1280px;
+	width: 1000px;
 	margin: 0 auto;
 	background-color: gray;
 	padding-left: 30px;
@@ -20,6 +20,8 @@ html,body{
 
 
 .artigo{
-	width: 100%;
-	margin-bottom: 40px;
+	width: 450px;
+	margin: 10px 17px;
+	vertical-align: top;
+	display: inline-block;
 }

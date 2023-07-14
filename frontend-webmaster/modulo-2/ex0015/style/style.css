@@ -1,0 +1,17 @@
+#divum, #divdois{
+    width: 400px;
+    background-color: gray;
+    margin: 0 auto;
+    display: none;
+}
+
+#divdois{
+    display: block;
+    height: 200px;
+    overflow: auto;
+}
+
+p{
+    height: 300px;
+    width: 500px;
+}
