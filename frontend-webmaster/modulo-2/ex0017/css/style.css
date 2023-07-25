@@ -1,0 +1,44 @@
+/*
+
+PROCURA TAG COM ATRIBUTO
+a[target]{
+    color: aquamarine;
+}
+
+PROCURA TAG COM ATRIBUTO COM O VALOR EXATO GOOGLE
+a[target="google"]{
+    color: aquamarine;
+}
+
+PROCURA TAG COM ATRIBUTO COM A PALAVRA GOOGLE ENTRE OS ESPAÇOS, GOOGLES OU TOPGOOGLE NÃO CONTA
+a[target~="google"]{
+    color: aquamarine;
+}
+
+PROCURA TAG COM ATRIBUTO QUE COMEÇA COM TOP E DEPOIS TEM HÍFEN
+a[target|="top"]{
+    color: aquamarine;
+}
+
+PROCURA TAG COM ATRIBUTO QUE COMEÇA COM TOP, PODE SER TOP-GOOGLES, TOP GOOGLE, TOPGOOGLES, ETC
+a[target^="top"]{
+    color: aquamarine;
+}
+
+PROCURA TAG COM ATRIBUTO QUE ACABA COM GOOGLE, O MESMO DE CIMA
+a[target$="google"]{
+    color: aquamarine;
+}
+
+PROCURA TAG COM ATRIBUTO QUE TEM GOOGLE EM ALGUM LUGAR DA PALAVRA, GOOGLE E GOOGLES CONTA
+a[target*="google"]{
+    color: aquamarine;
+}
+*/
+
+
+
+
+
+
+

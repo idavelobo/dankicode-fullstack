@@ -1,0 +1,19 @@
+div#bloco1{
+    width: 400px;
+    height: 400px;
+    background-color: gainsboro;
+    color: blanchedalmond;
+}
+
+div#bloco2{
+    /*color: inherit;*/
+    color: initial;
+}
+
+
+@media screen and (max-width: 500px) {
+    div#bloco1{
+        height: auto;
+    }
+}
+
