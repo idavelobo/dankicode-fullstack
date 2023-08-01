@@ -1,0 +1,10 @@
+#bg{
+    width: 40vw;
+    height: 40vh;
+    background-color: #3ff3ad;
+    background-image: url(../images/Captura\ de\ Tela\ \(11\).png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin: auto;
+}
