@@ -1,0 +1,106 @@
+/*
+ SITE BÁSICO
+*/
+body{
+    background-color: #F8F2F7;
+}
+
+h1{
+    font-size: 3rem;
+    color: #474973;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+    font-size: 1.5rem;
+    color: #161B33;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div{
+    text-align: center;
+    background-color: #FBF5EE;
+    border-radius: 4px;
+    border: 2px solid #0D0C1D;
+    margin: 20px auto;
+    padding: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*
+ LINKS
+*/
+
+a{
+    text-decoration: none;
+}
+
+a:link{
+    text-decoration: none;
+    color: #474973;
+}
+
+a:visited{
+    color: #161B33;
+}
+
+a:hover{
+    color: #A69CAC;
+}
+
+a:active{
+    color: #0D0C1D;
+}
+
+#links{
+    height: inherit;
+    width: 150px;
+}
+
+/*
+ HOVER
+*/
+
+#hover{
+    height: 180px;
+    width: 180px;
+    background-color: #2F4858;
+    color: white;
+    text-align: center;
+}
+
+#hover p{
+    margin-top: 80px;
+}
+
+#hover:hover p{
+    display: none;
+}
+
+#hover #hidden{
+    display: none;
+}
+
+#hover:hover #hidden{
+    display: block;
+}
+
+#hover:hover{
+    background-color: #F6AE2D;
+    color: black;
+}
+/*
+ NUMERAÇÃO
+*/
+
+
+
+div:first-child{
+    background-color: #474973;
+}
+
+div:nth-child(4){
+    color: #F6AE2D;
+}
+
